@@ -53,7 +53,7 @@ BBDC4
 
 ---
 
-## ⚙️ Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 ### 1. Clonar o repositório
 
