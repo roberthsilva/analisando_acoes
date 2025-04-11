@@ -37,22 +37,6 @@ O objetivo principal deste projeto é fornecer uma ferramenta visual e interativ
 
 ---
 
-## Sobre o Arquivo `IBOV.csv`
-
-O arquivo `IBOV.csv` deve conter uma coluna chamada `Código` com os tickers das ações listadas no IBOVESPA, **sem o sufixo `.SA`**. O código já adiciona esse sufixo automaticamente ao coletar os dados via Yahoo Finance.
-
-**Exemplo de conteúdo:**
-
-```csv
-Código
-PETR4
-VALE3
-ITUB4
-BBDC4
-```
-
----
-
 ## Como Executar o Projeto Localmente
 
 ### 1. Clonar o repositório
